@@ -11,8 +11,8 @@ import './App.css';
 function App() {
   const [currentPage, setCurrentPage] = useState('chat');
   const [userProfile] = useState({
-    name: "reddyreddy153700",
-    email: "reddyreddy@gmail.com"
+    name: "Saniya",
+    email: "mohammedsaniya55@gmail.com"
   });
 
   const renderPage = () => {
