@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/diya/static/css/main.6905d753.css",
-    "main.js": "/diya/static/js/main.8e48c971.js",
-    "static/js/453.2b3ddfc7.chunk.js": "/diya/static/js/453.2b3ddfc7.chunk.js",
-    "index.html": "/diya/index.html",
-    "main.6905d753.css.map": "/diya/static/css/main.6905d753.css.map",
-    "main.8e48c971.js.map": "/diya/static/js/main.8e48c971.js.map",
-    "453.2b3ddfc7.chunk.js.map": "/diya/static/js/453.2b3ddfc7.chunk.js.map"
+    "main.css": "/AI-Mental-Health-Detection/static/css/main.6905d753.css",
+    "main.js": "/AI-Mental-Health-Detection/static/js/main.d8705dfa.js",
+    "static/js/453.15565087.chunk.js": "/AI-Mental-Health-Detection/static/js/453.15565087.chunk.js",
+    "index.html": "/AI-Mental-Health-Detection/index.html",
+    "main.6905d753.css.map": "/AI-Mental-Health-Detection/static/css/main.6905d753.css.map",
+    "main.d8705dfa.js.map": "/AI-Mental-Health-Detection/static/js/main.d8705dfa.js.map",
+    "453.15565087.chunk.js.map": "/AI-Mental-Health-Detection/static/js/453.15565087.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6905d753.css",
-    "static/js/main.8e48c971.js"
+    "static/js/main.d8705dfa.js"
   ]
 }
