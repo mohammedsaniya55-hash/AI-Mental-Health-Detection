@@ -2,7 +2,7 @@
 
 # 🧠 Diya - AI-Powered Mental Health Detection Platform
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Smart+India+Hackathon+Project;AI+Mental+Health+Detection;Compassionate+Care+Through+Technology;Supporting+Wellness+Worldwide" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Smart+India+Hackathon+Project;AI+Mental+Healt[...] 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/mohammedsaniya55-hash/AI-Mental-Health-Detection)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
@@ -16,7 +16,7 @@
 
 ## 🎯 About Diya
 
-**Diya** (दिया - meaning "lamp" in Hindi) is an innovative **AI-powered mental health detection platform** developed as a **Smart India Hackathon** project. It leverages advanced machine learning and generative AI to analyze user responses, detect potential mental health concerns, and provide personalized support, resources, and chatbot-based guidance through an intuitive, responsive web interface.
+**Diya** (दिया - meaning "lamp" in Hindi) is an innovative **AI-powered mental health detection platform** developed as a **Smart India Hackathon** project. It leverages advanced machine l[...]
 
 ### 🌟 Mission
 
@@ -164,7 +164,7 @@ AI-Mental-Health-Detection/
 │   ├── styles/
 │   │   └── App.css
 │   ├── App.js
-│   └── index.js
+│   │   └── index.js
 ├── backend/
 │   ├── models/
 │   │   ├── User.js
@@ -175,7 +175,7 @@ AI-Mental-Health-Detection/
 │   │   └── resources.js
 │   ├── controllers/
 │   │   └── assessmentController.js
-│   └── server.js
+│   │   └── server.js
 ├── images/
 │   ├── screenshots/
 │   └── diagrams/
@@ -357,7 +357,7 @@ This project is open source and available for educational purposes.
 ### 💖 Built with Care & Technology
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohammedsaniya55--hash-181717?style=for-the-badge&logo=github)](https://github.com/mohammedsaniya55-hash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saniya%20Mohammad-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saniya-mohammad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saniya%20Mohammad-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saniya-mohammad-593b112a8/)
 
 > "Mental health is a human right. Technology should make it accessible to everyone."
 
@@ -367,7 +367,7 @@ If you find this project helpful, please ⭐ star it! Your support helps us reac
 
 ---
 
-**Disclaimer:** This platform is designed as a supplementary tool and should NOT replace professional mental health treatment. Always consult with qualified mental health professionals for diagnosis and treatment.
+**Disclaimer:** This platform is designed as a supplementary tool and should NOT replace professional mental health treatment. Always consult with qualified mental health professionals for diagno[...]
 
 **Last Updated:** July 2026
 
